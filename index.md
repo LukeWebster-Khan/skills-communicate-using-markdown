@@ -4,3 +4,7 @@
 ```javascript
 const Winner = 'ME';
 ```
+
+- [x] Complete JavaScript
+- [x] Complete CSS
+- [ ] Complete PYTHON
